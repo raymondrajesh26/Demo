@@ -2,6 +2,8 @@
 
 Hotfix has been fixed
 
-New patch is avaibla
+New patch is avaibl
+
+tHIS NEW FEATURE WHICH NEEDS TO BE ADDED a
 
  
