@@ -1,0 +1,20 @@
+From 35cf747a83c28bc46070dde61d908e5cfb35b884 Mon Sep 17 00:00:00 2001
+From: raymond <raymondrajesh@gmail.com>
+Date: Mon, 25 May 2020 16:39:28 +0530
+Subject: [PATCH] Added patch function
+
+---
+ src/string_operation.c | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/src/string_operation.c b/src/string_operation.c
+index 8c141dd..c89e1cb 100644
+--- a/src/string_operation.c
++++ b/src/string_operation.c
+@@ -1 +1,3 @@
+ New line for Moving Head Pointr
++
++patch operation
+-- 
+1.8.3.1
+
