@@ -2,4 +2,6 @@
 
 Hotfix has been fixed
 
+New patch is avaibla
+
  
